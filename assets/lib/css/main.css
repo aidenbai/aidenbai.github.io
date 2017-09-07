@@ -1,1 +1,11 @@
-
+.main-nav {
+    width: 1000;
+    background-color: rgba(20, 20, 20, 0.98);
+    box-shadow: 0 4px 4px #000000;
+    z-index: 9999;
+    padding: 15px;
+    position: relative;
+    margin: 0;
+    list-style: none;
+    text-align: left;
+}
